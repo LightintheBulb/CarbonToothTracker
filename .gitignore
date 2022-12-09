@@ -3,3 +3,4 @@ challenge-readme/
 node_modules/
 package-lock.json
 .env
+config/bootcamp_assignments.code-workspace
