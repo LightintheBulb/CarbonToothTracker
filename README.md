@@ -7,6 +7,7 @@ Build a command-line application from scratch to manage a company's employee dat
 ## Youtube Link
 
 ## Screenshot
+<img width="1900" alt="Screenshot 2022-12-08 at 11 42 05 PM" src="https://user-images.githubusercontent.com/96213325/206625646-efe5d6ce-17b3-4161-a92e-6c01b585f0bd.png">
 
 
 ## Features
